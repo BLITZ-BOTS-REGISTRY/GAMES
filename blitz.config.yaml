@@ -1,0 +1,9 @@
+name: Games
+description: Bored? This plugin introduces you a series of games (early access!! some are not gonna work)
+version: 1.0.0
+
+config:
+    theme: nature # can be any topic (This is used for the hangman command)
+    difficulty: easy # can be easy || medium || hard (This is used for the trivia command)
+    mode: multiple # can be multiple || single (This is used for the trivia command)
+    mines: 5 # can be any number between 1 and 15 (This is used for the minesweeper command)
