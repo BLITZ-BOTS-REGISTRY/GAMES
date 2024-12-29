@@ -1,6 +1,6 @@
 name: Games
 description: Bored? This plugin introduces you a series of games (early access!! some are not gonna work)
-version: 1.0.0
+version: 2.0.0
 
 config:
     theme: nature # can be any topic (This is used for the hangman command)

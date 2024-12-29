@@ -1,5 +1,5 @@
-import { SlashCommandBuilder, TextChannel } from 'npm:discord.js';
-import { Hangman } from 'npm:discord-gamecord';
+import { SlashCommandBuilder, TextChannel } from 'discord.js';
+import { Hangman } from 'discord-gamecord';
 
 export default {
   data: new SlashCommandBuilder()
